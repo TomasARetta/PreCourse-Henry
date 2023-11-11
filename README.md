@@ -1,2 +1,4 @@
 # PreCourse-Henry
-este es un repositorio de prueba
+Tomas Retta
+
+Este proyecto es una prueba de clonasion de repository en github
